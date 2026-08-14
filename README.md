@@ -1,4 +1,4 @@
-# 🏥 Private Medical Research Data Exchange
+# 🏥 Private Medical Research Data Exchange 
 
 > **A Privacy-Preserving Decentralized Medical Research Platform built on Midnight Protocol**  
 > *Securely register anonymized clinical datasets and prove researcher authorization via Zero-Knowledge credentials without exposing patient PII or medical license details on-chain.*

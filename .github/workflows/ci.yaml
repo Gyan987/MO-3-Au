@@ -1,4 +1,4 @@
-name: CI/CD Verification Pipeline
+name: CI/CD Verification Pipeline 
 
 on:
   push:

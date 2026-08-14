@@ -1,4 +1,4 @@
-{
+{ 
   "version": 2,
   "buildCommand": "npm run build -w contract && npm run build:vercel -w bboard-ui",
   "outputDirectory": "bboard-ui/dist",
